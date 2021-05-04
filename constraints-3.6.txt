@@ -494,7 +494,7 @@ zope.event==4.5.0
 zope.interface==5.2.0
 cx-Oracle==7.3.0 
 d6tstack 
-d6tstack[psql] 
+psql 
 google-api-python-client  
 google-auth-httplib2  
 google-auth-oauthlib  
