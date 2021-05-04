@@ -164,7 +164,7 @@ cloudpickle==1.4.1
 colorama==0.4.4
 colorlog==4.0.2
 commonmark==0.9.1
-connexion==2.6.0
+connexion
 contextvars==2.4
 coverage==5.4
 croniter==0.3.37
